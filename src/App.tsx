@@ -53,7 +53,6 @@ table {
 }
 * {
   box-sizing: border-box;
-  color:inherit;
 }
 body {
   font-weight: 400;
@@ -64,6 +63,7 @@ body {
 }
 a{
   text-decoration: none;
+  color:inherit;
 }
 `;
 
