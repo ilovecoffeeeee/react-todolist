@@ -1,6 +1,5 @@
 import {createGlobalStyle} from "styled-components";
-import React from 'react';
-import ToDoList from "./ToDoList";
+import ToDoList from "./components/ToDoList";
 import { darkTheme } from "./theme"
 
 const GlobalStyle = createGlobalStyle`
